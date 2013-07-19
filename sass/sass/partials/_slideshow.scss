@@ -1,0 +1,18 @@
+.container {
+    width: 960px;
+    margin: 0 auto;
+    position: relative;
+    
+    #slideshow {
+        margin: 300px auto 0;
+        text-align: center;
+        
+        .slideshow-wrapper {
+            margin: 0 auto;
+            width: 400px;
+            height: 200px;
+            overflow: hidden;
+        }
+    }    
+}
+
